@@ -1,0 +1,21 @@
+My name is Eugenia Piñeiro. I've graduated with a Master's degree in Computer Engineering where I
+specialized in Artificial Intelligence Systems.
+I am currently looking for new opportunities that allow me to advance my professional
+growth. I pride myself on being proactive and have a strong desire to continually
+expand my knowledge and improve my existing skills.
+I am passionate about Artificial Intelligence and I have developed strategies that will
+provide substantial value to the organization. I've proposed a new Data Augmentation
+technique with Deep Learning models. The objective was to analyze the penetration of
+chemotherapy in retina cancer cell clusters, making a significant contribution not only
+to the field of information technology but also to the field of medicine. The results are
+published by IEEE ieeexplore.ieee.org/abstract/document/10178851
+I have a robust background in with Artificial Intelligence, which is readily evident
+through the related projects showcased in my portfolio (eugepineiro.github.io). There,
+you will discover implementations of diverse Neural Networks, projects centered
+around Natural Language Processing, Machine Learning, Computer Vision, and more.
+I'm consistently ready to support my colleagues in reaching our collective goals. My
+strong organizational skills and attention to detail enable me to effectively manage my
+time, contributing to the team's overall success.
+I would greatly appreciate your review of my attached resume, where you will find a
+diverse range of skills, including proficiency in multiple programming languages and
+frameworks.
