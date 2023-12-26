@@ -15,7 +15,6 @@ def get_docs():
     :return: docs
     """
 
-    #text_loader = TextLoader('data/data.txt')
     loader = DirectoryLoader("data", "*.txt", loader_cls=TextLoader)  # Reads custom data from local files
 
     docs = loader.load()
@@ -29,7 +28,7 @@ def split_text(docs):
     """
 
     text_splitter = RecursiveCharacterTextSplitter( # recommended splitter for generic text
-        chunk_size=1000,
+        chunk_size=2000,
         chunk_overlap=200,
         add_start_index=True
     )
@@ -57,7 +56,7 @@ def get_data_store(chunks):
 
 def generate_response(db, prompt):
     """
-    Generate a response with an llm based on previous custom context
+    Generate a response with a LLM based on previous custom context
     :return: chatbot response
     """
 
